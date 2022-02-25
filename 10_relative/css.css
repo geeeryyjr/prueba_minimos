@@ -1,12 +1,12 @@
-body{
-    
-}
 .pelotaPeque{
     background:lightgray;
     background-image: url(ball.png);
     background-size: 200px 200px;
     width: 200px;
     height: 200px;
+    position:relative;
+    left:400px
+    
 
 }
 
@@ -17,7 +17,7 @@ body{
     width: 400px;
     height: 400px;
     position:relative;
-    left:200px;
+    left:2px;
     top:-200px;
 
 }
@@ -30,6 +30,7 @@ body{
     height: 200px;
     position:relative;
     top:-200px;
+    left:800px
 
 
 }
@@ -41,10 +42,8 @@ body{
     width: 800px;
     height: 400px;
     position:relative;
-    left:400px;
+    left:1px;
     top:-400px;
 
 
 }
-
-
